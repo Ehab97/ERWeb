@@ -1,0 +1,35 @@
+/**start blue_theme**/
+
+/*active link*/
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:hover, 
+.navbar-inverse .navbar-nav>.active>a:focus,
+.carousel .carousel-indicators .active,
+.navbar-nav>li>.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,
+.option-box .gear-check,#scroll-top,.features .feat
+{
+	background-color: #337ab7;
+}
+
+.navbar-inverse .navbar-brand span,
+.about h2 span,.testmon span,
+.our-team .team .person a,.footer h3,
+.footer .copy span,.about h1 span
+{
+	color: #337ab7;
+}
+.navbar-nav>li>.dropdown-menu ,.testmon .carousel-indicators li.active
+{
+    border-top: 3px solid #337ab7;
+    
+}
+.option-box .color-option
+{
+    
+    border: 3px solid #337ab7;
+   
+}
+
+
+
+/**End blue_theme**/

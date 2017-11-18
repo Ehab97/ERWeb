@@ -1,0 +1,96 @@
+/*start  aboutus */
+.breadcrup-holder
+{
+    background: #f5f5f5;
+}
+.breadcrumb
+{
+    padding: 10px 0;
+    margin: 0;
+}
+.about-us
+{
+    padding: 70px 0;
+}
+.about-us h1
+{
+    font-family: 'Raleway', sans-serif;
+    letter-spacing:-3px;
+    font-size: 70px;
+}
+.about-us hr
+{
+    width: 70%;
+}
+/*End  aboutus */
+/*start About-features*/
+.About-features
+{
+    padding: 0 0 70px;
+}
+.About-features h3
+{
+    font-family: 'Raleway', sans-serif;
+    letter-spacing:-1px;
+}
+.About-features p
+{
+    margin-bottom: 20px;
+}
+.about-ceo
+{
+    background: #EEE;
+    padding-top: 40px; 
+}
+.about-ceo h2
+{
+    font-family: 'Raleway', sans-serif;
+}
+.about-ceo p
+{
+    line-height: 1.8;
+}
+.about-ceo .btn-primary
+{
+    background: #333;
+    border: #333;
+    display: block;
+    margin-bottom: 30px;
+}
+
+/*end About-features*/
+/*start faq*/
+.faq-intro
+{
+    padding: 40px 0;
+}
+.faq-intro .h1
+{
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -3px;
+    font-size: 70px;
+}
+.faq-intro .h1 ~ hr
+{
+    width: 70%;
+}
+
+.faq-que .panel-heading a:after
+{
+    font-family:'Glyphicons Halflings';
+    content: "\e114";
+    color: #333;
+    float: right;
+}
+.faq-que .panel-heading a.collapsed:after
+{
+    content: "\e080";
+    color: #999;
+}
+.faq-que .panel-heading #heading-one a:befor
+{  
+    font-family:'Glyphicons Halflings';
+    content: "\e114";
+    color: #333;
+}
+/*end faq*/
